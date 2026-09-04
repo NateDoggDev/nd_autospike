@@ -62,6 +62,10 @@ Use the box item, aim the ghost preview, scroll to rotate, E to confirm. The slo
 
 Tyres go flat under 60 km/h and blow out to the rim above it. AI traffic is affected too.
 
+## Licence
+
+CC BY-NC-SA 4.0. Use it, change it, share it with credit and under the same licence. Don't sell it. Full text in `LICENSE`.
+
 ## Credits
 
 - Deploy sound bank in `sounds/` is from [loaf_spikestrips](https://github.com/loaf-scripts/loaf_spikestrips) by Loaf Scripts, ISC licence included in that folder. Their tyre detection was also the starting point for the swept version used here.

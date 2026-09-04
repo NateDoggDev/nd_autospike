@@ -4,6 +4,7 @@ game 'gta5'
 author 'Nate Dogg (Lint Error)'
 version '1.0.0'
 description 'Remote deployable spike box: place a box, link a key fob, trigger synced rolling spike strips'
+license 'CC-BY-NC-SA-4.0'
 
 lua54 'yes'
 ox_lib 'locale'
